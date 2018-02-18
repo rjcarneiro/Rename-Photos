@@ -10,8 +10,8 @@ Plus, it would add a `0000` sufix, in order that, if your have more than one pic
 
 ### Output
 
-> 20180212-091102-0001.jpg
-> 20180212-091102-0002.jpg
+> 20180212-091102-0001.jpg  
+> 20180212-091102-0002.jpg  
 > 20180212-091106-0003.jpg
 
 ## Usage
